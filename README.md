@@ -91,11 +91,9 @@ To become a strong **AI/ML Engineer** capable of designing, developing, and depl
 <!-- ======================= SOCIALS ======================= -->
 
 <p align="center">
-
 <a href="YOUR_KAGGLE_URL">
   <img src="https://www.kaggle.com/pranshukatiyar1511?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
-
 </p>
 
 <p align="center">
