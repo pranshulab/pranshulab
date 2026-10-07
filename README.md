@@ -87,15 +87,6 @@ My projects focus on practical applications of:
 To become a strong **AI/ML Engineer** capable of designing, developing, and deploying real-world intelligent systems.
 
 > **Learn → Build → Deploy → Improve. 🚀**
-
-<!-- ======================= SOCIALS ======================= -->
-
-<p align="center">
-<a href="YOUR_KAGGLE_URL">
-  <img src="https://www.kaggle.com/pranshukatiyar1511?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-</p>
-
 <p align="center">
   <i>Building the future with AI, one project at a time. 🤖</i>
 </p>
