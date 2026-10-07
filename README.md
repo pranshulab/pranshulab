@@ -24,37 +24,37 @@ I enjoy taking projects from **data → model → API → deployment**, with a f
 
 <!-- ======================= TECH STACK ======================= -->
 
-## 🧠 Tech Stack
+🧠 Tech Stack
 
-### 🤖 Machine Learning
+🤖 Machine Learning
 Python • Scikit-learn • Supervised Learning • Unsupervised Learning • Model Evaluation
 
-### 🧬 Deep Learning
+🧬 Deep Learning
 TensorFlow • PyTorch • CNN • RNN • LSTM • Transformers
 
 ### 💬 NLP & Generative AI
 NLP • LLMs • Hugging Face • LangChain • LangGraph • RAG
 
-### 📊 Data
+📊 Data
 NumPy • Pandas • Matplotlib • Seaborn • SQL
 
-### 🚀 Backend & Deployment
+🚀 Backend & Deployment
 FastAPI • Flask • Docker • AWS • Azure
 
-### 🗄️ Databases
+🗄️ Databases
 MySQL • PostgreSQL • MongoDB • Vector Databases
 
-### 🛠️ Tools & Platforms
+🛠️ Tools & Platforms
 Git • GitHub • Kaggle • Jupyter • VS Code • Google Colab
 
-### 💻 Core Computer Science
+💻 Core Computer Science
 Data Structures & Algorithms (DSA)
 
 ---
 
 <!-- ======================= CURRENTLY EXPLORING ======================= -->
 
-## 🔬 Currently Exploring
+🔬 Currently Exploring
 
 - 🧠 Large Language Models & Transformers
 - 🤖 Generative AI
@@ -68,7 +68,7 @@ Data Structures & Algorithms (DSA)
 
 <!-- ======================= WHAT I BUILD ======================= -->
 
-## 🚀 What I Build
+🚀 What I Build
 
 I like turning ideas into working AI systems:
 
@@ -82,16 +82,13 @@ My projects focus on practical applications of:
 
 <!-- ======================= GOAL ======================= -->
 
-## 🎯 Goal
+🎯 Goal
 
 To become a strong **AI/ML Engineer** capable of designing, developing, and deploying real-world intelligent systems.
 
 > **Learn → Build → Deploy → Improve. 🚀**
 
-
 <!-- ======================= SOCIALS ======================= -->
-
-## 🌐 Connect With Me
 
 <p align="center">
 
