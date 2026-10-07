@@ -4,7 +4,7 @@
 <h1 align="center">👋 Hi, I'm Pranshu Katiyar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/![Uploading IMG_20260611_181329 - Copy.jpg…]()font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&height=60&lines=AI%2FML+Engineer;Machine+Learning+%7C+Deep+Learning;NLP+%7C+Generative+AI+%7C+LLMs;Building+Intelligent+Systems+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&height=60&lines=AI%2FML+Engineer;Machine+Learning+%7C+Deep+Learning;NLP+%7C+Generative+AI+%7C+LLMs;Building+Intelligent+Systems+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
