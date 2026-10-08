@@ -1,4 +1,3 @@
-<img width="1704" height="2563" alt="IMG_20260611_181329 - Copy" src="https://github.com/user-attachments/assets/51d00523-7c52-4926-9e7b-b44bf94bc8d5" />
 <!-- ======================= HEADER ======================= -->
 
 <h1 align="center">👋 Hi, I'm Pranshu Katiyar</h1>
